@@ -3,6 +3,40 @@
 
 **ArchitechX** is an architectural design platform that automates the creation of custom building layouts. By inputting simple requirements (e.g., room dimensions, floors, and styles), users receive **instant, optimized 3D and 2D floor plans** with real-time editing capabilities.  
 
+---
+
+## 📑 Table of Contents
+
+1. [Why ArchitechX?](#why-architechx)  
+2. [🛠 Tech Stack](#-tech-stack)  
+   - [Frontend](#frontend)  
+   - [Backend](#backend)  
+   - [Database](#database)  
+   - [Deployment](#deployment)  
+3. [✨ Features](#-features)  
+   - [🚪 User Management](#-user-management)  
+   - [🏗️ Design Creation](#-design-creation)  
+   - [🎨 Interactive Editing](#-interactive-editing)  
+   - [💾 Project Management](#-project-management)  
+   - [⚙️ System Features](#-system-features)  
+4. [🌐 Microservices Architecture](#-microservices-architecture)  
+   - [Communication Flow](#communication-flow)  
+   - [Data Isolation](#data-isolation)  
+5. [Data Flow](#data-flow)  
+6. [API Connection](#api-connection)  
+7. [🏗️ Service Architecture](#-service-architecture)  
+8. [🚀 User Workflow](#-user-workflow)  
+   - [1. Authentication](#1-authentication)  
+   - [2. Design Specification](#2-design-specification)  
+   - [3. Layout Generation](#3-layout-generation)  
+   - [4. 3D Model Creation](#4-3d-model-creation)  
+   - [5. Real-Time Customization](#5-real-time-customization)  
+   - [6. Save & Export](#6-save--export)  
+   - [7. Sharing](#7-sharing)  
+9. [📜 License](#-license)
+
+---
+
 ### Why ArchitechX?  
 - **🚀 Speed**: Generate designs in minutes, not weeks.  
 - **🎨 Customization**: Modify every detail (walls, textures, furniture) in an interactive 3D editor.  
