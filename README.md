@@ -125,10 +125,50 @@
 - **Interactive Q&A**: Ask questions about Vastu compliance and receive actionable advice during the design process
 
 
+## Website UI/UX
+
+- Homepage (Landing)
+![Homepage (Landing)](<Screenshot 2025-06-02 161520.png>)
+
+- AboutUS
+![AboutUs](<Screenshot 2025-06-02 161608.png>)
+
+- Vastu Consultant Chatbot
+![Chatbot](<Screenshot 2025-06-02 161543.png>)
+
+- Features
+![Features](<Screenshot 2025-06-02 161558.png>)
+
+- Chatbot 
+![chatbot](<Screenshot 2025-06-02 161622.png>)
+
+- Trail Video
+![trail video](<Screenshot 2025-06-02 161632.png>)
+
+- Testinomials
+![testinomials](<Screenshot 2025-06-02 161700.png>)
+
+- FAQs
+![faqs](<Screenshot 2025-06-02 161710.png>)
+
+- Contact us
+![contact us](<Screenshot 2025-06-02 161720.png>)
+
+- Footer
+![footer](<Screenshot 2025-06-02 161732.png>)
+
+- Login Form
+![login form](<Screenshot 2025-06-02 161914.png>)
+
+- Register Form
+![register form](<Screenshot 2025-06-02 162009.png>)
+
+- Dashboard
+![dashboard](<Screenshot 2025-06-02 162031.png>)
 
 ## 🌐 Microservices Architecture
 
-![alt text](mermaid-diagram-2025-05-31-155232.png)
+![Microservices Architecture](mermaid-diagram-2025-05-31-155232.png)
 
 ### Communication Flow
 1. **Client** → **API Gateway** (Reverse proxy)
