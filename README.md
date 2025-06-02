@@ -1,7 +1,7 @@
 # ArchitechX
 ![alt text](logo.png)
 
-**ArchitechX** is an architectural design platform that automates the creation of custom building layouts. By inputting simple requirements (e.g., room dimensions, floors, and styles), users receive **instant, optimized 3D and 2D floor plans** with real-time editing capabilities.  
+**ArchitechX** is an architectural design platform that automates the creation of custom building layouts. By inputting simple requirements (e.g., room dimensions, floors, and styles), users receive **instant, optimized 3D and 2D floor plans** with real-time editing capabilities and an integrated **Vastu Consultant chatbot** for traditional design guidance.  
 
 ---
 
@@ -118,6 +118,11 @@
 - **Microservices API**: Scalable backend with service mesh routing
 - **Notifications**: Email alerts for project updates
 - **Admin Controls**: Manage users and system metrics (in future)
+
+### 🧭 Vastu Consultant Chatbot
+- **AI-Powered Guidance**: Integrated chatbot provides Vastu Shastra recommendations for your designs
+- **Contextual Suggestions**: Get instant feedback on room placement, orientation, and layout based on Vastu principles
+- **Interactive Q&A**: Ask questions about Vastu compliance and receive actionable advice during the design process
 
 
 
